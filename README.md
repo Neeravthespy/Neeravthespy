@@ -18,6 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeravthespy&show_icons=true&theme=dark&title_color=fefbfb&text_color=f1eaea&locale=en" alt="neeravthespy" /></p>
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Neeravthespy/Neeravthespy/output/snake.svg" alt="Snake animation" />
+
